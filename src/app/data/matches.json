@@ -1,0 +1,23 @@
+{
+    "liveMatch": {
+      "team1": "Mumbai Indians",
+      "team2": "Chennai Super Kings",
+      "status": "Live",
+      "venue": "Wankhede Stadium"
+    },
+    "upcomingMatches": [
+      {
+        "team1": "Delhi Capitals",
+        "team2": "Kolkata Knight Riders",
+        "time": "2025-05-15T19:30:00",
+        "venue": "Feroz Shah Kotla"
+      },
+      {
+        "team1": "Royal Challengers Bangalore",
+        "team2": "Sunrisers Hyderabad",
+        "time": "2025-05-16T19:30:00",
+        "venue": "M. Chinnaswamy Stadium"
+      }
+    ]
+  }
+  
