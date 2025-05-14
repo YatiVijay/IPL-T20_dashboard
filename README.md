@@ -30,15 +30,8 @@ yarn dev
 
 # 4. Project Structure
 
-├── app/                      # Next.js app directory
-│   ├── components/           # Reusable components like LiveMatch, PointsTable, etc.
-│   ├── api/                  # API routes (matches, points, schedule)
-│   └── page.tsx              # Home page rendering components
-├── public/                   # Static assets
-├── styles/                  # Global styles (e.g., globals.css)
-├── tailwind.config.js        # Tailwind CSS configuration
-├── tsconfig.json             # TypeScript configuration
-└── package.json              # Project metadata and dependencies
+<img width="753" alt="Screenshot 2025-05-14 at 5 02 25 PM" src="https://github.com/user-attachments/assets/7956a909-faa7-42a3-b32d-53c9a3386a4d" />
+
 
 # 5. Customization
 Data is fetched from internal API routes (/api/matches, /api/points, /api/schedule).
