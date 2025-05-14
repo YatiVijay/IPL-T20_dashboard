@@ -5,6 +5,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 # 1. Clone the Repository
 
 git clone [https://github.com/your-username/ipl-t20-dashboard.git](https://github.com/YatiVijay/IPL-T20_dashboard.git)
+
 cd ipl-t20-dashboard
 
 # 2. Install Dependencies
